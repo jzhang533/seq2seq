@@ -1,0 +1,5 @@
+bin
+lib
+data/*
+deps/*
+tools/seq2seq
